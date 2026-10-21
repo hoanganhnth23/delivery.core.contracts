@@ -1,7 +1,7 @@
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/Coordinate.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/EtaWindowRequest.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/EtaWindowResponse.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/MatrixRequest.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/MatrixResponse.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/RouteRequest.java
-/Users/a/Documents/private/delivery/backend_delivery/routing-contracts/src/main/java/com/delivery/routing/contracts/RouteResponse.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/Coordinate.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/EtaWindowRequest.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/EtaWindowResponse.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/MatrixRequest.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/MatrixResponse.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/RouteRequest.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/routing-contracts/src/main/java/com/delivery/routing/contracts/RouteResponse.java

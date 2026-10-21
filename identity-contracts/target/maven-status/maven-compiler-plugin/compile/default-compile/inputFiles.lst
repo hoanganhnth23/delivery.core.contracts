@@ -1,8 +1,8 @@
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityEvent.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityLifecycleStatus.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityPrincipal.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityProfileCreated.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityRole.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityStatusChanged.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/ShipperIdentityUpserted.java
-/Users/a/Documents/private/delivery/backend_delivery/identity-contracts/src/main/java/com/delivery/identity/contracts/SimulationContext.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityLifecycleStatus.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityPrincipal.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityProfileCreated.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityRole.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/IdentityStatusChanged.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/ShipperIdentityUpserted.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/identity-contracts/src/main/java/com/delivery/identity/contracts/SimulationContext.java

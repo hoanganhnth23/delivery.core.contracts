@@ -1,5 +1,5 @@
-/Users/a/Documents/private/delivery/backend_delivery/order-contracts/src/main/java/com/delivery/order/contracts/DeliveryStatusUpdatedEvent.java
-/Users/a/Documents/private/delivery/backend_delivery/order-contracts/src/main/java/com/delivery/order/contracts/OrderCreatedEvent.java
-/Users/a/Documents/private/delivery/backend_delivery/order-contracts/src/main/java/com/delivery/order/contracts/PaymentEvent.java
-/Users/a/Documents/private/delivery/backend_delivery/order-contracts/src/main/java/com/delivery/order/contracts/RestaurantEvent.java
-/Users/a/Documents/private/delivery/backend_delivery/order-contracts/src/main/java/com/delivery/order/contracts/ShipperEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/order-contracts/src/main/java/com/delivery/order/contracts/DeliveryStatusUpdatedEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/order-contracts/src/main/java/com/delivery/order/contracts/OrderCreatedEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/order-contracts/src/main/java/com/delivery/order/contracts/PaymentEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/order-contracts/src/main/java/com/delivery/order/contracts/RestaurantEvent.java
+/Users/a/Documents/private/delivery/delivery.core.contracts/order-contracts/src/main/java/com/delivery/order/contracts/ShipperEvent.java

@@ -1,10 +1,10 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
 identity-contracts,com.delivery.identity.contracts,IdentityStatusChanged,36,0,0,0,1,0,1,0,1,0
-identity-contracts,com.delivery.identity.contracts,IdentityRole,44,0,0,0,5,0,1,0,1,0
+identity-contracts,com.delivery.identity.contracts,IdentityRole,0,27,0,0,0,5,0,1,0,1
 identity-contracts,com.delivery.identity.contracts,IdentityEvent,21,0,0,0,1,0,1,0,1,0
-identity-contracts,com.delivery.identity.contracts,SimulationContext,85,0,22,0,14,0,16,0,5,0
-identity-contracts,com.delivery.identity.contracts,IdentityPrincipal,12,0,0,0,1,0,1,0,1,0
+identity-contracts,com.delivery.identity.contracts,SimulationContext,32,53,14,8,4,9,11,5,2,3
+identity-contracts,com.delivery.identity.contracts,IdentityPrincipal,0,12,0,0,0,1,0,1,0,1
 identity-contracts,com.delivery.identity.contracts,IdentityProfileCreated,33,0,0,0,1,0,1,0,1,0
-identity-contracts,com.delivery.identity.contracts,SimulationContext.ExecutionMode,24,0,0,0,1,0,1,0,1,0
+identity-contracts,com.delivery.identity.contracts,SimulationContext.ExecutionMode,0,15,0,0,0,1,0,1,0,1
 identity-contracts,com.delivery.identity.contracts,ShipperIdentityUpserted,33,0,0,0,1,0,1,0,1,0
-identity-contracts,com.delivery.identity.contracts,IdentityLifecycleStatus,44,0,0,0,5,0,1,0,1,0
+identity-contracts,com.delivery.identity.contracts,IdentityLifecycleStatus,0,27,0,0,0,5,0,1,0,1
