@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+delivery-contracts,com.delivery.delivery.contracts,DeliveryExceptionReportedEvent,0,60,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ShipperFoundEvent,0,69,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,DeliveryCompletedEvent,0,84,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ExpireShipperOfferCommand,0,21,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,OfferRetiredEvent,0,24,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,FindShipperEvent,0,87,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ShipperNotFoundEvent,0,42,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ShipperAcceptedEvent,0,18,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,OrderCancelledEvent,0,111,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ShipperFoundEvent.ShipperMatchResult,0,27,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,DeliveryStatusUpdatedEvent,0,44,0,0,0,4,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,OfferPersistedEvent,0,30,0,0,0,1,0,1,0,1
+delivery-contracts,com.delivery.delivery.contracts,ShipperFoundEvent.BatchItem,0,21,0,0,0,1,0,1,0,1

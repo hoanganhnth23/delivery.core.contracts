@@ -1,0 +1,9 @@
+com/delivery/identity/contracts/IdentityEvent.class
+com/delivery/identity/contracts/ShipperIdentityUpserted.class
+com/delivery/identity/contracts/SimulationContext$ExecutionMode.class
+com/delivery/identity/contracts/IdentityStatusChanged.class
+com/delivery/identity/contracts/SimulationContext.class
+com/delivery/identity/contracts/IdentityProfileCreated.class
+com/delivery/identity/contracts/IdentityLifecycleStatus.class
+com/delivery/identity/contracts/IdentityRole.class
+com/delivery/identity/contracts/IdentityPrincipal.class

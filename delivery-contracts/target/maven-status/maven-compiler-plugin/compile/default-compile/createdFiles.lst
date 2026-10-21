@@ -1,0 +1,13 @@
+com/delivery/delivery/contracts/ShipperFoundEvent$BatchItem.class
+com/delivery/delivery/contracts/ShipperFoundEvent$ShipperMatchResult.class
+com/delivery/delivery/contracts/ExpireShipperOfferCommand.class
+com/delivery/delivery/contracts/OfferPersistedEvent.class
+com/delivery/delivery/contracts/ShipperFoundEvent.class
+com/delivery/delivery/contracts/ShipperAcceptedEvent.class
+com/delivery/delivery/contracts/ShipperNotFoundEvent.class
+com/delivery/delivery/contracts/OrderCancelledEvent.class
+com/delivery/delivery/contracts/DeliveryExceptionReportedEvent.class
+com/delivery/delivery/contracts/DeliveryCompletedEvent.class
+com/delivery/delivery/contracts/OfferRetiredEvent.class
+com/delivery/delivery/contracts/FindShipperEvent.class
+com/delivery/delivery/contracts/DeliveryStatusUpdatedEvent.class

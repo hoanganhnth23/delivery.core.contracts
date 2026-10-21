@@ -1,0 +1,5 @@
+com/delivery/order/contracts/PaymentEvent.class
+com/delivery/order/contracts/RestaurantEvent.class
+com/delivery/order/contracts/DeliveryStatusUpdatedEvent.class
+com/delivery/order/contracts/ShipperEvent.class
+com/delivery/order/contracts/OrderCreatedEvent.class
