@@ -28,6 +28,12 @@ jobs:
         with:
           credentials_json: ${{ secrets.GCP_SA_KEY }}
 
+      - name: Install BOM and Build Parent
+        run: |
+          git clone --depth 1 https://github.com/hoanganhnth23/delivery.core.starters.git /tmp/starters
+          cd /tmp/starters/platform/delivery-platform-bom && mvn -B install -DskipTests
+          cd /tmp/starters/platform/delivery-build-parent && mvn -B install -DskipTests
+
       - name: Deploy to GAR
         run: |
           mvn -B -DskipTests deploy
